@@ -3,5 +3,5 @@
 .ipynb_checkpoints
 .idea/
 
-data
+src/data
 figures
